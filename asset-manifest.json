@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/novo/static/css/main.073c9b0a.css",
+    "main.js": "/novo/static/js/main.0a46ac0b.js",
+    "static/js/787.d3befce1.chunk.js": "/novo/static/js/787.d3befce1.chunk.js",
+    "static/media/logo.svg": "/novo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/novo/index.html",
+    "main.073c9b0a.css.map": "/novo/static/css/main.073c9b0a.css.map",
+    "main.0a46ac0b.js.map": "/novo/static/js/main.0a46ac0b.js.map",
+    "787.d3befce1.chunk.js.map": "/novo/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0a46ac0b.js"
+  ]
+}
